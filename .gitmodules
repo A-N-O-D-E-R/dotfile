@@ -1,6 +1,7 @@
 [submodule ".personal/harpoon"]
 	path = .personal/harpoon
 	url = https://github.com/ThePrimeagen/harpoon.git
+	branch = harpoon2
 [submodule ".personal/vim-apm"]
 	path = .personal/vim-apm
 	url = https://github.com/ThePrimeagen/vim-apm.git
