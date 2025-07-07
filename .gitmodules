@@ -13,3 +13,7 @@
 [submodule ".personal/caleb"]
 	path = .personal/caleb
 	url = https://github.com/ThePrimeagen/caleb.git
+[submodule "harpoon"]
+	path = harpoon
+	url = https://github.com/ThePrimeagen/harpoon.git
+	branch = harpoon2
