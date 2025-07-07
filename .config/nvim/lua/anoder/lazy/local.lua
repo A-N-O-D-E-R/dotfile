@@ -16,22 +16,6 @@ local local_plugins = {
 	--},
 
 	{
-		"streamer",
-		dir = "~/personal/eleven-streamer",
-		config = function()
-			vim.keymap.set("n", "<leader>er", function()
-				require("streamer").reload()
-			end)
-			vim.keymap.set("n", "<leader>es", function()
-				require("streamer").twitch_dashboard()
-			end)
-			vim.keymap.set("n", "<leader>en", function()
-				require("streamer").twitch_dashboard():stop()
-			end)
-		end,
-	},
-
-	{
 		"caleb",
 		dir = "~/personal/caleb",
 		config = function() end,
