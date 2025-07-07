@@ -17,12 +17,12 @@ local local_plugins = {
 
 	{
 		"caleb",
-		dir = "~/personal/caleb",
+		dir = "~/.personal/caleb",
 		config = function() end,
 	},
 	{
 		"harpoon",
-		dir = "~/personal/harpoon",
+		dir = "~/.personal/harpoon",
 		config = function()
 			local harpoon = require("harpoon")
 
@@ -66,7 +66,7 @@ local local_plugins = {
 	},
 	{
 		"vim-apm",
-		dir = "~/personal/vim-apm",
+		dir = "~/.personal/vim-apm",
 		config = function()
 			--[[
             local apm = require("vim-apm")
@@ -79,7 +79,7 @@ local local_plugins = {
 
 	{
 		"vim-with-me",
-		dir = "~/personal/vim-with-me",
+		dir = "~/.personal/vim-with-me",
 		config = function() end,
 	},
 
