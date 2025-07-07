@@ -4,4 +4,4 @@ sudo apt update -y &&\
 sudo apt upgrade -y &&\
 sudo apt install yadm
 
-yadm clone https://github.com/A-N-O-D-E-R/dotfile.git
+yadm clone --recurse-submodules --remote-submodules https://github.com/A-N-O-D-E-R/dotfile.git
