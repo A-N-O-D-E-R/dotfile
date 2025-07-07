@@ -1,0 +1,15 @@
+[submodule ".personal/harpoon"]
+	path = .personal/harpoon
+	url = https://github.com/ThePrimeagen/harpoon.git
+[submodule ".personal/vim-apm"]
+	path = .personal/vim-apm
+	url = https://github.com/ThePrimeagen/vim-apm.git
+[submodule ".personal/vim-with-me"]
+	path = .personal/vim-with-me
+	url = https://github.com/ThePrimeagen/vim-with-me.git
+[submodule ".personal/plenary.nvim"]
+	path = .personal/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule ".personal/caleb"]
+	path = .personal/caleb
+	url = https://github.com/ThePrimeagen/caleb.git
